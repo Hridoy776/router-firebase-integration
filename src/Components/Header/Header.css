@@ -1,0 +1,16 @@
+
+.heading{
+    margin: 20px auto;
+}
+.header a{
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  font-size: 1.5rem;
+}
+.header a:hover{
+    color: crimson;
+}
+.name{
+    margin: 10px;
+}
